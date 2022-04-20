@@ -1,0 +1,77 @@
+/* CSS Document */
+
+body {
+	background-color: #525E75;
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	color: #B6FFCE;
+}
+
+h2 {
+	font-size: 50px;
+	color: #95D1CC;
+}
+
+#angle {
+	text-align: center;
+}
+
+#final {
+	text-align: end;
+}
+
+#now {
+	text-align: end;
+}
+
+#later {
+	image-orientation: end;
+}
+
+#end {
+	color: white;
+	text-align: center;
+}
+
+#dummy {
+	color: #525E75;
+	
+}
+
+#yes {
+	float: right;
+}
+
+#thumb {
+	border-radius: 100px;
+	text-align: center;
+}
+
+text {
+	color: white; 
+}
+
+p {
+	font-size: 20px;
+	color: #92BA92;
+}
+
+#p2 {
+	text-align: center;
+}
+
+
+.one {
+	
+	margin: 65px;
+	text-align: center;
+}
+
+
+
+
+
+
